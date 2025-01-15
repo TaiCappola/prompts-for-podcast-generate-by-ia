@@ -41,6 +41,10 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Usei os prompts de artes no `microsoft bing criador de imagens`
 
+## Resultado
+
+https://www.notion.so/PAS-Podcast-AI-Studio-17b30d197f6880d8ac82f0b6829be04d?pvs=4
+
 ## 👨‍💻 Expert
 
 Tainá Cappola
